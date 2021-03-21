@@ -1,4 +1,4 @@
-package com.java8feature.stream.exp;
+package com.java8feature.stream.api.filter.exp;
 
 import java.util.List;
 import java.util.stream.Collectors;

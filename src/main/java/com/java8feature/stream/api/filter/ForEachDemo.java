@@ -1,4 +1,4 @@
-package com.java8feature.stream;
+package com.java8feature.stream.api.filter;
 
 import java.util.ArrayList;
 import java.util.HashMap;
