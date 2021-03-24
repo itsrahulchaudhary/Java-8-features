@@ -30,7 +30,7 @@ public class SortMapDemo {
 		*/
 		
 		// Using Lambda expression
-		Collections.sort(entries, (o1, o2) -> o1.getKey().compareTo(o2.getKey()));
+	//	Collections.sort(entries, (o1, o2) -> o1.getKey().compareTo(o2.getKey()));
 
 		for(Entry<String, Integer> entry : entries) {
 			System.out.println(entry.getKey()+" : "+entry.getValue());
